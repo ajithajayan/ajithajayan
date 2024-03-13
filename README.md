@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajithajayan&label=Profile%20views&color=0e75b6&style=flat" alt="ajithajayan" /> </p>
 
 
-- 🔭 I’m currently working on **Elder care**
+- 🔭 I’m currently working on **Prime care**
 
 - 🌱 I’m currently learning **django,react**
 
